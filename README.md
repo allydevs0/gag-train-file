@@ -26,9 +26,3 @@ To use with AI assistants, load the data as a knowledge base or training dataset
 - `grow_a_garden_data.jsonl` — JSON Lines format for easier ingestion in AI pipelines
 
 ---
-
-## How to Generate the Data (Optional)
-
-To reproduce the scraping, run the included Python script:
-
-```bash
